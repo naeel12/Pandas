@@ -1,0 +1,1 @@
+Pandas also offers powerful tools for data exploration and statistical analysis. Users can generate summary statistics, calculate averages, identify trends, and perform descriptive analysis with minimal code. Functions such as head(), tail(), info(), and describe() help users quickly understand dataset characteristics and structure.
